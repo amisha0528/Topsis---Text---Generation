@@ -1,0 +1,6 @@
+Model,Model_size_GB,Inference_Time_ms,BLEU_Score,Fact_Checking_Score_(0-100)
+T5-base,0.7,1.5,37.4,85
+GPT-2,1.5,0.8,35.8,75
+BLOOM,3.9,2.1,42.1,82
+Bart Large,3,2.5,40.3,83
+Jurassic-1 Jumbo,18.6,3.8,44.2,88
